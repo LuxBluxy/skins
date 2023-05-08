@@ -6,8 +6,8 @@
        height="150"></a>
 
 
-# [LuxBluxy](https://cdn.discordapp.com/attachments/814930437381029900/1105112188143800320/LuxBluxy_skin_2.0.osk)
-[![](https://media.discordapp.net/attachments/814930437381029900/1105108450956038206/screenshot356.jpg?width=901&height=676)](https://cdn.discordapp.com/attachments/814930437381029900/1105112188143800320/LuxBluxy_skin_2.0.osk)
+# [LuxBluxy](https://cdn.discordapp.com/attachments/814930437381029900/1105112188517101568/LuxBluxy.osk)
+[![](https://media.discordapp.net/attachments/814930437381029900/1105108450956038206/screenshot356.jpg?width=901&height=676)](https://cdn.discordapp.com/attachments/814930437381029900/1105112188517101568/LuxBluxy.osk))
 
 # [Aleph stole from Nongsa](https://github.com/rudj-skinhub/woal/raw/tyfh/aleph/Aleph%2Bstole%2Bfrom%2BNongsa.osk)
 [![](https://i.imgur.com/r73sh3h.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/aleph/Aleph%2Bstole%2Bfrom%2BNongsa.osk)
