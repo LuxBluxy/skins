@@ -21,3 +21,5 @@
 # [HR](https://cdn.discordapp.com/attachments/814930437381029900/1105112190899470477/LuxBluxy_taiko_skin.osk)
 [![](https://cdn.discordapp.com/attachments/814930437381029900/1105108450058457188/screenshot359.jpg)](https://cdn.discordapp.com/attachments/814930437381029900/1105112190899470477/LuxBluxy_taiko_skin.osk)
 
+# [Llados Skin](https://cdn.discordapp.com/attachments/814930437381029900/1151295070495051826/llados.osk)
+[![](https://cdn.discordapp.com/attachments/814930437381029900/1151294926932422706/screenshot506.jpg)](https://cdn.discordapp.com/attachments/814930437381029900/1151295070495051826/llados.osk)
